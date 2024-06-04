@@ -1,0 +1,13 @@
+El formato más utilizado es el RGB(255,0,0) matplotlib y  BGR(0,0,255) en opencv
+Rotar en 90 grados
+Rotar en 45 grados REDONDEAR Y GENERA HUECOS
+OpenCV tiene problemas de demanda por eso librerias se deben instalar manuealmente en c++ porque no vienen precompiladas
+uint8 2^8
+2 puntos se usa para vectorizar
+Plano binario
+Hacer tarea de los comentarios
+Tarea:
+RGB, BGR y escala de grises en una misma ventana
+con opencv muestra en RGB, BGR y escala de grises en una misma ventana, hazlo con variables y comentarios en español
+Las imágenes deben estar concatenadas en una ventana y con texto en cada imagen en la parte superior preferible y con título de ventana
+soy grupo 2 C
